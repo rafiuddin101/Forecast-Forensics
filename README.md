@@ -67,7 +67,3 @@ The toolkit now includes visualization capabilities:
 - `plots/`: Visualization modules
 - `models/cli.py`: Command-line interface
 - `data/`: Sample datasets
-
-## License
-
-[Your License]
